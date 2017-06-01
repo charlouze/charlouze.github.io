@@ -1,0 +1,3 @@
+[submodule "examples/ionic-font-awesome"]
+	path = examples/ionic-font-awesome
+	url = git@github.com:charlouze/ionic-font-awesome.git

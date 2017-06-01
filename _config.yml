@@ -24,6 +24,13 @@ github_username:  charlouze
 disqus:
   shortname: charlouze-dev-blog
 
+defaults:
+  -
+    scope:
+      type: "posts"
+    values:
+      comments: true
+
 # Build settings
 markdown: kramdown
 theme: minima

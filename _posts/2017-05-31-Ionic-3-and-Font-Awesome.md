@@ -5,6 +5,7 @@ author: Charlouze
 date:   2017-05-31 19:50:15 +0200
 category: Ionic
 tags: Ionic Ionic3 Font Awesome FontAwesome
+comments: true
 ---
 
 ## Requirements

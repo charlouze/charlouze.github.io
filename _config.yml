@@ -23,6 +23,7 @@ twitter_username: charlouzee
 github_username:  charlouze
 disqus:
   shortname: charlouze-dev-blog
+google_analytics: UA-100620448-1
 
 defaults:
   -

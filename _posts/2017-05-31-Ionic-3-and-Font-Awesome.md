@@ -42,8 +42,8 @@ Here is my marvellous `config/copy.config.js` file:
 // New copy task for font files
 module.exports = {
   copyFontAwesome: {
-    src: ['{{ROOT}}/node_modules/font-awesome/fonts/**/*'],
-    dest: '{{WWW}}/assets/fonts'
+    src: ['{% raw %}{{ROOT}}{% endraw %}/node_modules/font-awesome/fonts/**/*'],
+    dest: '{% raw %}{{WWW}}{% endraw %}/assets/fonts'
   }
 };
 {% endhighlight %}
